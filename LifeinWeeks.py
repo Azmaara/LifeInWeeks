@@ -1,11 +1,5 @@
-# ?? Don't change the code below ??
+
 age = input("What is your current age?")
-# ?? Don't change the code above ??
-
-#First *fork* your copy. Then copy-paste your code below this line ??
-#Finally click "Run" to execute the tests
-
-
 
 
 age_As_int = int(age)
@@ -13,8 +7,6 @@ years = 90 - age_As_int
 days = round(years * 365)
 Weeks = round(years * 52)
 months  = round(years * 12)
-
-
 
 
 years = 90 - int(age)
